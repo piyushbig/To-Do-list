@@ -23,7 +23,7 @@ app.use(express.static("public"));
 
 //mongoose connecting to the server
 //make sure no spelling mistakes
-mongoose.connect("mongodb+srv://admin-piyush:piya123@cluster0.96gyw.mongodb.net/todolistDB?retryWrites=true&w=majority");
+mongoose.connect("");
 
 //items schema new database
 const itemsSchema = {

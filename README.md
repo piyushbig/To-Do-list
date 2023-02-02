@@ -7,7 +7,7 @@ first
 
 for node module
 
-Then intall require npm packages in your directory
+Then intall required npm packages in your directory
 
 ```npm i express```
 
